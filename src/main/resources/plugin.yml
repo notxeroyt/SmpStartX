@@ -1,0 +1,15 @@
+name: SmpstartX
+version: 1.0
+main: me.notxero.smpstartx.SmpstartX
+api-version: 1.21
+author: NotXeroYT
+
+commands:
+  smpstart:
+    description: Start SMP with countdown
+    permission: smpstart.exe
+
+permissions:
+  smpstart.exe:
+    description: Allows starting SMP
+    default: op
