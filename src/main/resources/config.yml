@@ -1,0 +1,7 @@
+countdown: 5
+spawn-border-size: 16
+final-border-multiplier: 10
+
+colors:
+  countdown: "§b§l"
+  start: "§a§l"
