@@ -1,0 +1,14 @@
+name: SmpStartX
+version: 1.0
+main: me.notxero.smpstartx.SmpStartX
+api-version: '1.21'
+author: NotXeroYT
+
+commands:
+  smpstart:
+    description: Start SMP
+    permission: smpstart.exe
+
+permissions:
+  smpstart.exe:
+    default: op
